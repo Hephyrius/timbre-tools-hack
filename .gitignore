@@ -9,3 +9,8 @@ Feature_Extraction/wandb/run-20240225_024153-2v0l4bte/files/requirements.txt
 Feature_Extraction/wandb/run-20240225_024153-2v0l4bte/files/wandb-metadata.json
 Feature_Extraction/.ipynb_checkpoints/Neural_Autoencoder-checkpoint.ipynb
 Feature_Extraction/wandb/run-20240225_024153-2v0l4bte/run-2v0l4bte.wandb
+*.ckpt
+*.wav
+*.txt
+*.json
+*.wandb
